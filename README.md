@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Wolff 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Pedro Henrique Wolff, tenho 20 anos e sou natural do Rio Grande do Sul.  Atualmente, estou cursando Sistemas de Informação | Universidade Feevale. 
 
